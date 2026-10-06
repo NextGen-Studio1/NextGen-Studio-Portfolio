@@ -1,0 +1,20 @@
+{
+  "name": "Ankush Pratap Singh — NextGen Studio Portfolio",
+  "short_name": "NextGen Studio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#040711",
+  "theme_color": "#050811",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "nextgen-studio-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
